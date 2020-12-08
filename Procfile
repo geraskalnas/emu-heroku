@@ -1,2 +1,1 @@
-#!/bin/sh
-/app/startup.sh
+web: /app/startup.sh
