@@ -3,4 +3,4 @@ screen
 htop
 tree
 nano
-qemu
+qemu-kvm qemu virt-manager virt-viewer libvirt-bin
