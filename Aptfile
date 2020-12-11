@@ -1,7 +1,6 @@
-:repo:deb http://download.virtualbox.org/virtualbox/debian bionic contrib
 shellinabox
 screen
 htop
 tree
 nano
-virtualbox
+https://download.virtualbox.org/virtualbox/6.1.16/virtualbox-6.1_6.1.16-140961~Ubuntu~bionic_amd64.deb
