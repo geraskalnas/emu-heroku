@@ -4,6 +4,3 @@ htop
 tree
 nano
 fakeroot fakechroot debootstrap dpkg
-python3 python3-pip
-julia
-node
