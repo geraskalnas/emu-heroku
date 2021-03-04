@@ -3,4 +3,4 @@ screen
 htop
 tree
 nano
-fakeroot fakechroot debootstrap dpkg
+node
